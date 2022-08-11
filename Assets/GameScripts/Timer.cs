@@ -43,10 +43,5 @@ public class Timer : MonoBehaviour
             currentTime += 2 * Time.deltaTime;
             text.text = currentTime.ToString(".00");
         }
-
-        if (currentTime >= 20)
-        {
-            healthBar.(SetHealth)
-        }
     }
 }

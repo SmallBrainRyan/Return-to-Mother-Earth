@@ -30,17 +30,18 @@ public class AlienHQ : MonoBehaviour
             Spawn();
             timeleft = time;
         }
-
-        if (currentHealth == 0)
-        {
-            StartCoroutine(Death());
-        }
     }
+
     private void OnTriggerEnter(Collider coll)
     {
         if (coll.CompareTag("bullet"))
         {
             Damage(1);
+        }
+
+        if (currentHealth <= 0)
+        {
+            StartCoroutine(Death());
         }
     }
     void Damage(int damage)
