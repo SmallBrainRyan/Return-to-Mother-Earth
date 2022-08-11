@@ -1,0 +1,3852 @@
+fileFormatVersion: 2
+guid: 5ba16222401f5764f99190bd7af0f2ac
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1445
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e58f625aa63c9945bb5c604028eab55
+      internalID: -546373929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1445
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c605949b581fe4a4c9b764896e1ec331
+      internalID: 899607555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1445
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5ec556a3943474a97bdafa8373fa3b
+      internalID: 39236038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1445
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74313d945a5204c47ab3f1e56899d3a8
+      internalID: 1231954699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1445
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93cfd51840924d41b6105a09ff0516a
+      internalID: -1181689051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1445
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea488287b0a5857408e0f168dee9d926
+      internalID: 402573704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1445
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3382f51a98e3014a88576634cced30a
+      internalID: 1802858219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1445
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96521e8f2528fa43abce513c10ef5b4
+      internalID: 1922739944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1445
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bb51093e7be36498fc439ebc8210de
+      internalID: 1947477892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_9
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1445
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d5a6a6fc171054cb7568da874e36ef
+      internalID: -2123532780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_10
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1445
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d66b30cb99fb494da579f878b1dea94
+      internalID: 1025687812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_11
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1445
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f162fc2e9c81b9b45b3b2032ede5d445
+      internalID: 1363027749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_12
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1445
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249994fe4b26bf34aa0bb15f934198f0
+      internalID: -1656498763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1325
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb52f12f183c3604782af70cbbf27c0d
+      internalID: -281702126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1325
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915823384a8780349b7ce2d5d069eb8f
+      internalID: -1627436855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1325
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5975053d51491ec42a5186b18b59495d
+      internalID: -713662426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1325
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf0c9baa4d795947bd9dd68ac9add20
+      internalID: 1373709850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1325
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88285d68394f94448ba3c91286f38bc5
+      internalID: -758130253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1325
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebce64cca7609524da6d47d419a7fa36
+      internalID: 538853788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1325
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161dcfc39ea28c7459a94664e3a876af
+      internalID: 1880508435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_20
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1325
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d604a748a90fab43a41cfcc59ae98e7
+      internalID: 1802892379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_21
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1325
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1023534b34bfddd4f93c466abdfc8ae3
+      internalID: 302672526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1325
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d113db89383713043beb0cae43828322
+      internalID: 1434365241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1325
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708ebb1156b1d9b4ca51f7e1d1e33f3a
+      internalID: -11224161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_24
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1325
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c549c523783d5524a9bcc85d51817a24
+      internalID: -1030955484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_25
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1325
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c32652bf2298e44cab1490ba4349136
+      internalID: -1659739528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1205
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23d840f30875d141b3c526957deb226
+      internalID: -2026383256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1205
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75006fa35af50744d9df9edcb4a696a8
+      internalID: 197840804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1205
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9261c91fdbd364cad51bc0aaf4b78a
+      internalID: -1019330214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1205
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f0d08410ffd754fb8e53daa4787904
+      internalID: 1666040464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1205
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbae3deb51731649a84f2a8820c4d40
+      internalID: 522451068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_31
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1205
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7122f220bd6062a47a4813a94a0061f7
+      internalID: -788509937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_32
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1205
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebb5f0c3cb14e740a5134cb2f1d56de
+      internalID: -1336060483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_33
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1205
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9457a1f25faec6343ab2c3c765ccf49f
+      internalID: -1750153263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1205
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0626b3a860aeed4384574dfab0f0057
+      internalID: 1554401868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_35
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1205
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba716ae21f9d464c92e56d59c630713
+      internalID: 1842220009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_36
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1205
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e00ba0079c85d5459f9b5027fea4410
+      internalID: 952666740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_37
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1205
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680328026cacd884382a10460e625ca7
+      internalID: 648780175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_38
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1205
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fcc48dbad3e184e9fc7be1a0aacb56
+      internalID: 26605447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1085
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e45170ad52aadb4bafb6f1af7550edb
+      internalID: -132275979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1085
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4315fdd17b088504d88b84ff319e3f4f
+      internalID: -1123524447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1085
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1026ea12f2adc14e97af3399055470d
+      internalID: -235148706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1085
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805403b7bb90a954b9d5f5b41ed8aa0b
+      internalID: 1449162077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1085
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fddca22fc3dcb42ac580b6357e1f40
+      internalID: -1538792936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1085
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb5cf834965ff347b36d417511ec0ae
+      internalID: 525442265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1085
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e882b23e215f82946a8664ea1006ac0b
+      internalID: 1535777995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_46
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1085
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e830c344789794f8bd908d4ec678d3
+      internalID: 614359052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1085
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49a135e98331764e927e7b0e6d9a57b
+      internalID: 1366018184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_48
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1085
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efdd1b50dc05c44f97162f0affd144a
+      internalID: 215529729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_49
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1085
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e040cf4758b8040b4cd1e5a5281bac
+      internalID: -931453747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_50
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1085
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ece3d6846ff2040a9bbbd1f90c45b1
+      internalID: 1616187224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_51
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1085
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c837b1f99c36f948aa6991857d6cda1
+      internalID: 596870693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 965
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ce7a64b8f8b8e40be94292016ad8fb
+      internalID: 996407028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 965
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84387c87148a27042acfb42a3c412eef
+      internalID: -722746680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 965
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a9172c50638c74db3a00c08d24e66c
+      internalID: 676633317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_55
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 965
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523a0d1c62e01e14cb7ba3783c869805
+      internalID: -1125805768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 965
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349579bc7b245b749a400d7e02fd667f
+      internalID: -1894702139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 965
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9c1926cafe239438ec5741263af007
+      internalID: 611139968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_58
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 965
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a658eb6200547140a8d13aef9dfae6c
+      internalID: 2060276601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_59
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 965
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c5cf1919aa41f438c6287c69d6c0ba
+      internalID: -2136856104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_60
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 965
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192c4c576cfbbd147bfac2e6b09ad6e1
+      internalID: 1695615811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_61
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 965
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff97fd2739409541ba51f7af767144a
+      internalID: -1056286132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_62
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 965
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd078d9cd1bc754fba6101f93120f6c
+      internalID: 1229925048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_63
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 965
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e32925c55960144baea05437715136
+      internalID: 878105155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_64
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 965
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d6d40164f6fb34aa52286dc1e99477
+      internalID: 857806785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 845
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cdae3f0d11bc142a7d39e53005e6cc
+      internalID: -570331667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_66
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 845
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142dff09fcedaa74eac0ebd4170c5397
+      internalID: 48720469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 845
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc231788b1e46148b9c974c6d1bf1f9
+      internalID: -1786922790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_68
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 845
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cbc1034c10e3e46a5f17bf4a0a5390
+      internalID: -919111837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_69
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 845
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29303ca91e33ce34cbfa8dc4794a8a3c
+      internalID: -190752384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_70
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 845
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b276c8258ce39824eb2023f6dba0b521
+      internalID: -1446104708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_71
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 845
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb70362742ad4be4da72a89b9d117b88
+      internalID: -1376731720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_72
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 845
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372176939779db54b90213fc0af7d05f
+      internalID: -132168631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_73
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 845
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8167490aa4306214ea9bc60aa2a12ca4
+      internalID: 2101799486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_74
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 845
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba862c3804324649a3176d9b93227c7
+      internalID: -1622504343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_75
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 845
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf7754ee4077a74d8405f6ce34dcc12
+      internalID: -2126302319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_76
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 834
+        width: 119
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a32dfe18808d24e9ef14d415e28b07
+      internalID: -53560906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_77
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 845
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa99b78e0d06e742bc773468271d888
+      internalID: -1432050643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 725
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65f980d20c724a49ba25806cfbf1856
+      internalID: 1825558722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_79
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 725
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dbc81f26e72d640a3d64d17ce1bde2
+      internalID: 505934950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 725
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8971ef682c02844ad61e82cff719b7
+      internalID: 944034429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_81
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 725
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614ebe7da0206a049a8349076a18c71f
+      internalID: 967854831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 702
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759db9dd8d7239e48b5120e2de749cad
+      internalID: -1281207666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_83
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 725
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30c98943846d0c4f99a23767c9a9757
+      internalID: 1742947684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_84
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 725
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabd59594331b074db0feef80fdab38f
+      internalID: 1397466807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_85
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 725
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebbd314f53a3a14c8842c2a253c8479
+      internalID: 291052522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_86
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 725
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b048ab9f78c5e874583368b7284d98da
+      internalID: 70887819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_87
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 725
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101e58abf3049484d914de9f1364550f
+      internalID: 233332506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_88
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 725
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16b2d25f9febc74c8a2ef0816ca47ba
+      internalID: -798277541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_89
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 725
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb9178f2aa4880499e69c63560792f9
+      internalID: -457970871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_90
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 725
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b4d34e2427244383b067055715223
+      internalID: -1563441052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a72c2305f7ae149b43e5533fff502c
+      internalID: 327400366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_92
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 605
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfcb8220285e774a8fed1f119ba02b7
+      internalID: -1144500945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_93
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 605
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86237ab8334b65e4b98a716271c7d494
+      internalID: -1539956541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_94
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 605
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888acb6a86825ec42bcae3dcb04462b1
+      internalID: 1336548737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 605
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baa2060b5db99a4da5fd90223df49ad
+      internalID: -2767954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_96
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 605
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa1081efbff75440b473d7d2d965219
+      internalID: 821015360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_97
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 605
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f29fb6a29964b4395660fe8e523d5c
+      internalID: -610496873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_98
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 605
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920e096686bdfca4788da6b64e1322a5
+      internalID: 1763646882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_99
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 605
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c011ee4b8709b241b28d01bcb8e6a49
+      internalID: -256408960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_100
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 571
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c4e1359af76504492ff1ecbf032a63
+      internalID: 1385954884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_101
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 605
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560797a8d9999534ea3e7f62392b30c3
+      internalID: -487270743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_102
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 605
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de7e5defec8cde42a677961590c702c
+      internalID: -1970219332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_103
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 605
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fe844d92e50404587d84c992abc5c7
+      internalID: -1276674078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b029489ffd4bb6841b08b9eefa625405
+      internalID: -1032547710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_105
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 485
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5c3f2031ae0a04f88254e34ffae67b
+      internalID: 1702782799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_106
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 485
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25cbf31f1b4c004dadb3e7af9557099
+      internalID: -1872579896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_107
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 485
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006dcce660b68df40bb5d33b956f4484
+      internalID: -1437040449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_108
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 485
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114ff54eb6969ec4b964a2a745cdc0ea
+      internalID: -86356683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_109
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 485
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7159a3cda3760c44a869fa5f844dd40
+      internalID: -13297468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_110
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 485
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6ff28937458944fa6f52600e054ea8
+      internalID: -1641662708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_111
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 485
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578d91a2baca3664a902de9764250003
+      internalID: 1869354926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_112
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 485
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a56de91e1459a40a7271900bb7c7fb
+      internalID: 564335741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_113
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 485
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3e05ba6d9634b4199711f6dde5dc9e
+      internalID: -735045842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_114
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 485
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e8cd63830e26946a946df51f72a42d
+      internalID: 237146957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_115
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 485
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3c113ca4846fe43aa87c4fe7cc7733
+      internalID: 746668456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_116
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 485
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a53a8085ce6ad41bae41899d2f051b
+      internalID: 444749290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d5a1e1fc4d96145b64547fd6e20430
+      internalID: -822606615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_118
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 365
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1ce7750ea00a749a38d92dea616f18
+      internalID: 1946499790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_119
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 365
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b38d4cb5c496d4593ebadabc2ead8d
+      internalID: 589220725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_120
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 365
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c1ec78b670acd45972df5226a221cc
+      internalID: -272998743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_121
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 365
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2634b6b66de2add42bac6079f920b3a0
+      internalID: -1593319255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_122
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 365
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ca008a6de381f49a64fc2c69e2853c
+      internalID: 2128464754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_123
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 365
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6491f9076cb67934db63f1b3d7f6861c
+      internalID: -562101012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_124
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 365
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c14b52d57691e54cb77787ac1a0c46d
+      internalID: 1094236603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_125
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 365
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9237e7917728c0f4293fdb3b6c1827ee
+      internalID: 441828622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_126
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 365
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0933f35de71ad194ebb82ea53bbcabbe
+      internalID: -125663365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_127
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 365
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6df9c521d7e3d4d8833e76faf99f12
+      internalID: 205248961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_128
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 365
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61f55f0f68963a478d07c71bf85ee61
+      internalID: 1188678593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_129
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 365
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb72837164ec8814abdaa27fc9d82ea7
+      internalID: 1803041231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82575f1990ded214a849ce7424bdc57b
+      internalID: 1734006425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_131
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 245
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ace1f9f21eacb49b5ba2e39286e886
+      internalID: 92532952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_132
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 245
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b23d9b131d8b842b6fdf68e9740965
+      internalID: -1230773138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_133
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 245
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163e2cc4c59adb74b893770e75626ef0
+      internalID: 1738453673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_134
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 245
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4971eca296e50dd41a6cb7c1b48589a0
+      internalID: 2101599555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_135
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 245
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4296b2161c87e40816705b59624d4a
+      internalID: 485061486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_136
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 245
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642f1ba4f49fa5a48a5e36ee47eec4d5
+      internalID: -1917625259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_137
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 245
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e83367e038a0d54d989daa13bf28b82
+      internalID: -1449473171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_138
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 245
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d10c4469504cbd47acf212cc642e63e
+      internalID: -732162084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_139
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 245
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d12f4c1d2072f54492b06ffee964184
+      internalID: -550847044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_140
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 245
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d094af3c501be4d914d6f35b7ff0c7
+      internalID: -1636542451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_141
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 245
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b4e678a00ede846b1ad03478a4b04c
+      internalID: -1150648940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_142
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 245
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5b998f6f9d67042ae11ffdb3e4c492
+      internalID: 1084497457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6387031ac5a4cd49901b1d04e632199
+      internalID: 1037889976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_144
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 125
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830bed6155fe8aa4da270c4d9d3964b3
+      internalID: -409015059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_145
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 125
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928efd96c12e55e42a69a8961c296f9c
+      internalID: 50808490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_146
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 125
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afadb8e6a4a677144a5e19621c222fff
+      internalID: 1682725325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_147
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 125
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1fb1e044c1ad549a86e5ab44c596e0
+      internalID: -1314950010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_148
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 125
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3129c666b5c76b040ba998479045a101
+      internalID: -1761490411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_149
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 125
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c49bca16545809469833aa29bc4997c
+      internalID: 1881871204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_150
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 125
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925d747a58227b643b903732c1bacf83
+      internalID: -741284965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_151
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 125
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6eee16c0dfbf2d4a8fa3f2b622b1c46
+      internalID: -2018802670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_152
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 125
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da14ac24f99e4b4784a5069f6ee2257
+      internalID: 183677711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_153
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 125
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806050d37f639e84b8e96bc95e68152a
+      internalID: 656582621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_154
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 125
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc73362a45a9954ca4d3b2cfb167df8
+      internalID: -1717271090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_155
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 125
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fba577625b8d7443aaf9ce91dc8442f
+      internalID: 414040793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c1ec41368a6a0459f82d971efdf69f
+      internalID: 1490755088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_157
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e9ea1c2ee2c934ea3d50a77172fd91
+      internalID: 39258492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_158
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c92ee95dba37f43a5fdf3aeef4f7e9
+      internalID: -1629038097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_159
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9e67039e8fd9f49b2c98ebd238969b
+      internalID: 1784116624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_160
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bfb856ac7094d4692af4f94ba56d5d
+      internalID: -959035375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_161
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4794eadd8cf3449a592135f258b2f2
+      internalID: -1297547033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_162
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419bfad62c35b524186a12495ab85566
+      internalID: -1089487258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_163
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b788a2e28c3bfb438ddfe6b4fbbbe86
+      internalID: 1594875588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_164
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7369a80c6b5b15a4e8baaf609010444d
+      internalID: 1192585058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_165
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3686f428110d60e4aa02d97622c8174b
+      internalID: -1126081146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_166
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ce45b1fd720424da747c57dae05066
+      internalID: 79372407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_167
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec272053065fc34d926bdec5113fea1
+      internalID: 780062456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_168
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0c5599ad0756d45b57a21ccbfcc318
+      internalID: 129958008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0aa07bc973cc4604f81f99e27f5f91ca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_0: -546373929
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_75: -2126302319
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_67: -1786922790
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_53: -722746680
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_129: 1803041231
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_119: 589220725
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_161: -1297547033
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_3: 1231954699
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_28: -1019330214
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_60: 1695615811
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_115: 746668456
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_18: 538853788
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_32: -1336060483
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_114: 237146957
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_134: 2101599555
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_98: 1763646882
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_68: -919111837
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_105: 1702782799
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_22: 1434365241
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_120: -272998743
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_135: 485061486
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_155: 414040793
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_158: -1629038097
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_108: -86356683
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_90: -1563441052
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_92: -1144500945
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_123: -562101012
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_62: 1229925048
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_23: -11224161
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_38: 26605447
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_17: -758130253
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_51: 596870693
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_117: -822606615
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_96: 821015360
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_79: 505934950
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_132: -1230773138
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_110: -1641662708
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_153: 656582621
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_78: 1825558722
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_6: 1802858219
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_76: -53560906
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_56: -1894702139
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_151: -2018802670
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_131: 92532952
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_42: 1449162077
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_63: 878105155
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_46: 614359052
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_127: 205248961
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_143: 1037889976
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_8: 1947477892
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_121: -1593319255
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_164: 1192585058
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_128: 1188678593
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_73: 2101799486
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_45: 1535777995
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_34: 1554401868
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_44: 525442265
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_15: -713662426
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_59: -2136856104
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_152: 183677711
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_47: 1366018184
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_48: 215529729
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_9: -2123532780
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_19: 1880508435
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_39: -132275979
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_84: 1397466807
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_74: -1622504343
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_150: -741284965
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_41: -235148706
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_16: 1373709850
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_43: -1538792936
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_139: -550847044
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_124: 1094236603
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_7: 1922739944
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_145: 50808490
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_80: 944034429
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_154: -1717271090
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_49: -931453747
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_95: -2767954
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_165: -1126081146
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_147: -1314950010
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_66: 48720469
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_54: 676633317
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_81: 967854831
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_1: 899607555
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_25: -1659739528
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_82: -1281207666
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_77: -1432050643
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_167: 780062456
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_99: -256408960
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_72: -132168631
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_138: -732162084
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_26: -2026383256
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_30: 522451068
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_64: 857806785
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_93: -1539956541
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_27: 197840804
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_107: -1437040449
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_146: 1682725325
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_24: -1030955484
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_112: 564335741
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_20: 1802892379
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_55: -1125805768
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_40: -1123524447
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_125: 441828622
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_89: -457970871
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_142: 1084497457
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_71: -1376731720
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_156: 1490755088
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_111: 1869354926
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_10: 1025687812
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_159: 1784116624
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_162: -1089487258
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_168: 129958008
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_144: -409015059
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_163: 1594875588
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_104: -1032547710
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_133: 1738453673
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_87: 233332506
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_94: 1336548737
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_130: 1734006425
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_21: 302672526
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_31: -788509937
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_4: -1181689051
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_35: 1842220009
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_37: 648780175
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_97: -610496873
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_126: -125663365
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_103: -1276674078
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_137: -1449473171
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_69: -190752384
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_2: 39236038
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_11: 1363027749
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_52: 996407028
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_157: 39258492
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_100: 1385954884
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_13: -281702126
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_91: 327400366
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_166: 79372407
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_83: 1742947684
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_148: -1761490411
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_33: -1750153263
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_102: -1970219332
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_101: -487270743
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_50: 1616187224
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_61: -1056286132
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_5: 402573704
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_65: -570331667
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_160: -959035375
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_70: -1446104708
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_14: -1627436855
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_36: 952666740
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_58: 2060276601
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_136: -1917625259
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_118: 1946499790
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_86: 70887819
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_149: 1881871204
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_122: 2128464754
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_88: -798277541
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_12: -1656498763
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_29: 1666040464
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_85: 291052522
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_106: -1872579896
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_113: -735045842
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_141: -1150648940
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_57: 611139968
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_140: -1636542451
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_116: 444749290
+      pixel-art-style-set-different-texture-pattern-sprites-stone-wood-brick-dirt-metal-bit-game-design-tiles-isolated-dark-blue-139009705_109: -13297468
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

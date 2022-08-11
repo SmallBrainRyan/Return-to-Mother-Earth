@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class AstronautScript : MonoBehaviour
 {
@@ -34,8 +35,10 @@ public class AstronautScript : MonoBehaviour
     bool grounded;
 
     [Header("Health")]
+    public string nextLevelname;
     public int maxHealth;
     private int currentHealth;
+    
     public HealthBar healthBar;
 
     private void Start()
@@ -83,6 +86,10 @@ public class AstronautScript : MonoBehaviour
         if (collision.CompareTag("Alien"))
         {
             Damage(1);
+        }
+        if (currentHealth == 0)
+        {
+            SceneManager.LoadScene(nextLevelname);  
         }
     }
     void Damage(int damage)
