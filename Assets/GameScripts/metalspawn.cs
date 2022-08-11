@@ -6,6 +6,7 @@ public class metalspawn : MonoBehaviour
 {
     public GameObject metal;
     public int xPos;
+    public int yPos;
     public int zPos;
     public Transform player;
 
@@ -33,7 +34,8 @@ public class metalspawn : MonoBehaviour
     private void Spawn()
     {
         xPos = (int)Random.Range(player.transform.position.x + 20, player.transform.position.x + 100);
+        yPos = (int)Random.Range(player.transform.position.x + 20, player.transform.position.x + 100);
         zPos = (int)Random.Range(player.transform.position.x + 20, player.transform.position.x + 100);
-        Instantiate(metal, new Vector3(xPos, 2, zPos), Quaternion.identity);
+        Instantiate(metal, new Vector3(xPos, yPos, zPos), Quaternion.identity);
     }
 }

@@ -14,7 +14,6 @@ public class metalholder : MonoBehaviour
     void Start()
     {
         counter = GameObject.Find("count").GetComponent<TextMeshProUGUI>();
-        metalcount -= 1;
         counter.text = "" + metalcount;
 
         button.active = false;

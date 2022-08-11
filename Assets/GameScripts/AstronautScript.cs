@@ -40,10 +40,14 @@ public class AstronautScript : MonoBehaviour
     private int currentHealth;
     
     public HealthBar healthBar;
+    private float distance;
+    public Transform ship;
+    public int regen = 100;
 
     private void Start()
     {
         controller = GetComponent<CharacterController>();
+        ship = GameObject.Find("spaceship").GetComponent<Transform>();
       
         currentHealth = maxHealth;
         healthBar.MaxHealth(maxHealth);
@@ -79,6 +83,12 @@ public class AstronautScript : MonoBehaviour
         velocity.y += -gravity * time;
         controller.Move(velocity * time);
 
+        distance = Vector3.Distance(ship.transform.position, this.transform.position);
+        if (distance<regen)
+        {
+            Heal(1);
+        }
+
     }
 
     private void OnTriggerEnter(Collider collision)
@@ -87,6 +97,12 @@ public class AstronautScript : MonoBehaviour
         {
             Damage(1);
         }
+
+        if (collision.CompareTag("Mama"))
+        {
+            Damage(10);
+        }
+
         if (currentHealth == 0)
         {
             SceneManager.LoadScene(nextLevelname);  
@@ -95,6 +111,11 @@ public class AstronautScript : MonoBehaviour
     void Damage(int damage)
     {
         currentHealth -= damage;
+        healthBar.SetHealth(currentHealth);
+    }
+    void Heal(int hp)
+    {
+        currentHealth += hp;
         healthBar.SetHealth(currentHealth);
     }
 }

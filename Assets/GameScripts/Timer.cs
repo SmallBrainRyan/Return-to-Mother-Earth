@@ -15,7 +15,7 @@ public class Timer : MonoBehaviour
     private float distance;
     public float liferange = 10;
     public Transform ship;
-    public HealthBar healthBar;
+    public Transform player;
 
     void Start()
     {
@@ -23,12 +23,13 @@ public class Timer : MonoBehaviour
         text = GameObject.Find("Timer").GetComponent<TextMeshProUGUI>();
         text.text = "" + currentTime;
         ship = GameObject.Find("spaceship").GetComponent<Transform>();
+        player = GameObject.Find("Astronaut").GetComponent<Transform>();
 
     }
 
     void Update()
     {
-        distance = Vector3.Distance(ship.transform.position, this.transform.position);
+        distance = Vector3.Distance(ship.transform.position, player.transform.position);
         if (distance > liferange)
         {
             currentTime -= 1 * Time.deltaTime;
